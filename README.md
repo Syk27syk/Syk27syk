@@ -1,6 +1,6 @@
 👋 Hi, I’m @Syk27syk
 
-🌱 I’m currently learning: web development/web applications. 
+🌱 I’m currently learning: full stack web development/web applications. 
 
 👀 I’m interested in:
 
