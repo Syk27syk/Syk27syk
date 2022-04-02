@@ -4,7 +4,10 @@
 
 👀 I’m interested in:
 
-  Skillsets - web development (& data science & machine learning & physical computing), a little less priority in software development & cybersecurity at the moment. 
+  Skillsets
+  - web development, web applications, web design
+  - data science & machine learning & physical computing
+  - a little less priority in software development & cybersecurity at the moment. 
 
   Languages - Python, SQL, R, HTML, CSS, JavaScript, Java
 
