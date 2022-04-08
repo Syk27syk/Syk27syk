@@ -9,7 +9,7 @@
   - data science & machine learning & physical computing
   - a little less priority in software development & cybersecurity at the moment. 
 
-  Languages - Python, SQL, R, HTML, CSS, JavaScript, Java
+  Languages - JavaScript, HTML, CSS, Python, SQL, R, Java
 
   Domain knowledge - finance/real estate, biomedical, audio, behavioural science/neuroscience, natural languages
 
